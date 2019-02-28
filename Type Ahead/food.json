@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Mapo Tofu", 
+        "cuisine": "Chinese", 
+        "type": "dinner",
+        "ingredients": [
+            "tofu",
+            "minced pork (or turkey)",
+            "dried peppers"
+        ]
+    }, 
+    {
+        "name": "Lasagna", 
+        "cuisine": "Italitan", 
+        "type": "dinner",
+        "ingredients": [
+            "lasagna noodles",
+            "tomato sauce",
+            "basil",
+            "low-moisture full fat mozarrella cheese",
+            "parmigiano-reggiano cheese"
+        ]
+    }, 
+    {
+        "name": "Chicken and Celery Dumplings", 
+        "cuisine": "Chinese", 
+        "type": "dinner",
+        "ingredients": [
+            "chicken",
+            "celery",
+            "ginger"
+        ]
+    }, 
+    {
+        "name": "Shredded Chicken Stir Fry", 
+        "cuisine": "Chinese", 
+        "type": "dinner",
+        "ingredients": [
+            "chicken",
+            "carrots",
+            "bell pepper"
+        ]
+    }, 
+    {
+        "name": "Chive Pockets", 
+        "cuisine": "Chinese", 
+        "type": "dinner", 
+        "ingredients": [
+            "chive",
+            "thin mung bean glass noodles",
+            "tiny shrimp skin",
+            "eggs"
+        ]
+    }, 
+    {
+        "name": "Cacio e Pepe", 
+        "cuisine": "Italian", 
+        "type": "dinner",
+        "ingredients": [
+            "salt",
+            "pancetta",
+            "olive oil",
+            "garlic",
+            "black pepper",
+            "lemon zest",
+            "parmigiano-reggiano cheese",
+            "red pepper flakes"
+        ]
+    }, 
+    {
+        "name": "Spicy Thai Basil Chicken (Pad Gra Prow)", 
+        "cuisine": "Thai", 
+        "type": "dinner", 
+        "ingredients": [
+            "thai holy basil",
+            "chicken",
+            "garlic",
+            "thai peppers"
+        ]
+    }, 
+    {
+        "name": "Steamed Egg", 
+        "cuisine": "Chinese", 
+        "type": "appetizer", 
+        "ingredients": [
+            "egg",
+            "water",
+            "green onion"
+        ]
+    }, 
+    {
+        "name": "Shanghai Soup Dumplings", 
+        "cuisine": "Chinese", 
+        "type": "lunch", 
+        "ingredients": [
+            "pork",
+            "green onions",
+            "ginger",
+            "gelatin powder"
+        ]
+    }
+]
